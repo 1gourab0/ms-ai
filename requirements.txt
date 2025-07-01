@@ -1,6 +1,10 @@
 fastapi
 uvicorn[standard]
-pydantic
 keybert
-scikit-learn
+transformers
 sentence-transformers
+torch
+psutil
+pydantic
+scikit-learn
+numpy
